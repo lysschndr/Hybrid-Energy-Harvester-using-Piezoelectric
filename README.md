@@ -1,6 +1,3 @@
-#Wireless transfer of elecrical energy through piezoelectric
-
-
-Piezoelectric Effect is the ability of certain materials to generate an electric charge in response to applied mechanical stress while the converse piezoelectric effect is the vice versa of it.This project is about the use of piezoelectric as a mean of wireless transfer of electrical energy. Applying a voltage supply to a  piezoelectric crystal, it starts to vibrate and these vibrations generate sound waves with frequencies between 1.5 and 8 MHz (i.e ultrasound). Thus, piezoelectric crystals can convert electric currents into ultrasound waves.
-
+Split-core current transformers provide accurate measurements of AC electrical systems and feature a removeable or hinged leg for easy installation without disconnecting wires or interrupting power. Both retrofit and semi-permanent metering applications can benefit from the split-core’s non-invasive design (Accuenergy, 2015). It offers many benefits, such as easy installation and non-intrusive current measurement. It also has risks to consider, such as calibration errors and temperature sensitivity. 
+This project will monitor calibration status, temperature and current output using IoT Integration for remote monitoring and management
 
