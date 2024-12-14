@@ -1,3 +1,3 @@
 To help lessen wasted energy consumption, we are proposing a smart energy monitoring and control with the use of Iot and load signature analysis. Load analysis is the unique consumption pattern intrinsic to each individual electrical appliance/piece of equipment. By this analysis, we can get  the data of refrigerator’s electrical behavior when it is in operation and with the help of Internet of Things technology, monitor the refrigerator’s energy consumption and control its operation. Additional feature is the predictive maintenance alerts by integrating machine learning models that analyze historical energy patterns that can predict potential home appliances malfunction. This would help users avoid unexpected breakdowns and improve the lifespan of the appliances.
-
+#Hardware
 
